@@ -1,0 +1,448 @@
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fshare.php%253Fu%253Dhttps%25253A%25252F%25252Ftuxkarma.co%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_US&refsrc=deprecated&locale2=en_US&_rdr
+File Name: C:\Downloaded Web Sites\tuxkarma.co\cookie\consent_prompt\index.html
+Content Type: application/xhtml+xml
+
+Uri: https://tuxkarma.co/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/en/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\en\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/en/faq/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\en\faq\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/en/our-approach/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\en\our-approach\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/en/our-mission/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\en\our-mission\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/en/projets/beli-the-fight-against-systemic-racism/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\en\projets\beli-the-fight-against-systemic-racism\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/en/projets/infinite-matter/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\en\projets\infinite-matter\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/faqs/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\faqs\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/notre-demarche/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\notre-demarche\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/notre-mission/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\notre-mission\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/projets/beli/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\projets\beli\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/projets/matiere-infinie/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\projets\matiere-infinie\index.html
+Content Type: text/html
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/burger.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\burger.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/close.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\close.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/dot.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\dot.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/favicon/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/favicon/site.webmanifest
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\favicon\site.webmanifest
+Content Type: 
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/1b.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\1b.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/2b.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\2b.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/3b.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\3b.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/4b.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\4b.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/5b.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\5b.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/6b.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\6b.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/formes/7b.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\formes\7b.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/logo_small.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\logo_small.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/noise.png
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\noise.png
+Content Type: image/png
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/paypal.png
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\paypal.png
+Content Type: image/png
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/social/fb.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\social\fb.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/social/in.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\social\in.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/social/mail.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\social\mail.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/social/tw.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\social\tw.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/img/star.svg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\img\star.svg
+Content Type: image/svg+xml
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/js/app.js
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\js\app.js
+Content Type: application/x-javascript
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/style.css
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\style.css
+Content Type: text/css
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/BasisGrotesquePro-Regular.woff
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\BasisGrotesquePro-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/BasisGrotesquePro-Regular.woff2
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\BasisGrotesquePro-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/EditorialNew-Light.woff
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\EditorialNew-Light.woff
+Content Type: application/font-woff
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/EditorialNew-Light.woff2
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\EditorialNew-Light.woff2
+Content Type: application/font-woff2
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/NeueMontreal-Medium.woff
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\NeueMontreal-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/NeueMontreal-Medium.woff2
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\NeueMontreal-Medium.woff2
+Content Type: application/font-woff2
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/NeueMontreal-Regular.woff
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\NeueMontreal-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/NeueMontreal-Regular.woff2
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\NeueMontreal-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/Parabole-DisplayRegular.woff
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\Parabole-DisplayRegular.woff
+Content Type: application/font-woff
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/t/Parabole-DisplayRegular.woff2
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\t\Parabole-DisplayRegular.woff2
+Content Type: application/font-woff2
+
+Uri: https://tuxkarma.co/wp-content/themes/karma/video/fond.mp4
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\themes\karma\video\fond.mp4
+Content Type: video/mp4
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/03/Karma_Azamit-0-copie-2000x2000.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\03\Karma_Azamit-0-copie-2000x2000.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/03/Karma_Azamit-1-copie-2000x2000.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\03\Karma_Azamit-1-copie-2000x2000.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/03/Karma_Azamit-2-copie-2000x2000.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\03\Karma_Azamit-2-copie-2000x2000.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/03/Karma_Azamit-3-copie-2000x2000.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\03\Karma_Azamit-3-copie-2000x2000.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/03/Karma_Azamit-4-copie-2000x2000.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\03\Karma_Azamit-4-copie-2000x2000.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-1-1000x667.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-1-1000x667.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-1-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-1-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-1-20x13.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-1-20x13.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-1.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-4-1000x750.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-4-1000x750.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-4-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-4-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-4-20x15.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-4-20x15.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-4-768x576.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-4-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/1920-4.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\1920-4.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_DAYNYS-1000x750.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_DAYNYS-1000x750.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_DAYNYS-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_DAYNYS-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_DAYNYS-2000x1500.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_DAYNYS-2000x1500.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_DAYNYS-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_DAYNYS-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_DAYNYS-20x15.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_DAYNYS-20x15.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_DAYNYS-768x576.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_DAYNYS-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_DAYNYS.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_DAYNYS.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_GROUPE_V2-1-1000x693.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_GROUPE_V2-1-1000x693.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_GROUPE_V2-1-1536x1065.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_GROUPE_V2-1-1536x1065.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_GROUPE_V2-1-20x14.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_GROUPE_V2-1-20x14.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_GROUPE_V2-1-768x532.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_GROUPE_V2-1-768x532.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/BELI_GROUPE_V2-1.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\BELI_GROUPE_V2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/header-2000x1500.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\header-2000x1500.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/IMG_3886-1000x667.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\IMG_3886-1000x667.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/IMG_3886-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\IMG_3886-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/IMG_3886-2000x1333.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\IMG_3886-2000x1333.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/IMG_3886-2048x1365.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\IMG_3886-2048x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/IMG_3886-20x13.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\IMG_3886-20x13.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/IMG_3886-768x512.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\IMG_3886-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/IMG_3886-scaled.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\IMG_3886-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/logo-2-1000x600.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\logo-2-1000x600.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/logo-2-1536x922.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\logo-2-1536x922.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/logo-2-20x12.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\logo-2-20x12.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/logo-2-768x461.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\logo-2-768x461.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/logo-2.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\logo-2.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/site-1000x750.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\site-1000x750.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/site-20x15.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\site-20x15.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/site-768x576.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\site-768x576.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/uploads/2022/12/site.gif
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2022\12\site.gif
+Content Type: image/gif
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/03/IMG_3908-scaled-1-1000x667.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\03\IMG_3908-scaled-1-1000x667.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/03/IMG_3908-scaled-1-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\03\IMG_3908-scaled-1-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/03/IMG_3908-scaled-1-2000x1334.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\03\IMG_3908-scaled-1-2000x1334.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/03/IMG_3908-scaled-1-2048x1366.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\03\IMG_3908-scaled-1-2048x1366.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/03/IMG_3908-scaled-1-20x13.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\03\IMG_3908-scaled-1-20x13.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/03/IMG_3908-scaled-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\03\IMG_3908-scaled-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/03/IMG_3908-scaled-1.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\03\IMG_3908-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/03/infinie-header-2000x1520.jpg
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\03\infinie-header-2000x1520.jpg
+Content Type: image/jpeg
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/04/karma-01a.mp4
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\04\karma-01a.mp4
+Content Type: video/mp4
+
+Uri: https://tuxkarma.co/wp-content/uploads/2023/04/karma-02a.mp4
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-content\uploads\2023\04\karma-02a.mp4
+Content Type: video/mp4
+
+Uri: https://tuxkarma.co/wp-json/
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-json\index.html
+Content Type: application/json
+
+Uri: https://tuxkarma.co/wp-json/wp/v2/pages/138
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-json\wp\v2\pages\138
+Content Type: application/json
+
+Uri: https://tuxkarma.co/wp-json/wp/v2/pages/142
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-json\wp\v2\pages\142
+Content Type: application/json
+
+Uri: https://tuxkarma.co/wp-json/wp/v2/pages/377
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-json\wp\v2\pages\377
+Content Type: application/json
+
+Uri: https://tuxkarma.co/wp-json/wp/v2/pages/379
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-json\wp\v2\pages\379
+Content Type: application/json
+
+Uri: https://tuxkarma.co/wp-json/wp/v2/pages/381
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-json\wp\v2\pages\381
+Content Type: application/json
+
+Uri: https://tuxkarma.co/wp-json/wp/v2/pages/5
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-json\wp\v2\pages\5
+Content Type: application/json
+
+Uri: https://tuxkarma.co/wp-json/wp/v2/pages/72
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-json\wp\v2\pages\72
+Content Type: application/json
+
+Uri: https://tuxkarma.co/wp-json/wp/v2/pages/82
+File Name: C:\Downloaded Web Sites\tuxkarma.co\wp-json\wp\v2\pages\82
+Content Type: application/json
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6SHS3D70YY
+File Name: C:\Downloaded Web Sites\tuxkarma.co\gtag\js
+Content Type: application/javascript
+
